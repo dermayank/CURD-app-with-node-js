@@ -1,0 +1,19 @@
+{
+  "name": "curd-app-with-node",
+  "version": "1.0.0",
+  "description": "Implementation of CURD(Create, Update, Read, Delete) using Express JS and MongoDb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dermayank/CURD-app-with-node-js.git"
+  },
+  "author": "Mayank Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dermayank/CURD-app-with-node-js/issues"
+  },
+  "homepage": "https://github.com/dermayank/CURD-app-with-node-js#readme"
+}
